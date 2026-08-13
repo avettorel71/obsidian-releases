@@ -46303,5 +46303,12 @@
     "author": "Akira HIRATA",
     "description": "Collapse list items by default based on the bullet character they use. Write - to start folded and + to stay open. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "psephopaiktes/obsidian-fold-by-bullet"
+  },
+  {
+    "id": "spin-the-wheel",
+    "name": "Spin The Wheel",
+    "author": "Alessandro Vettorel",
+    "description": "A customizable spinning wheel to randomly pick options from a list or a note.",
+    "repo": "avettorel71/spin-the-wheel"
   }
 ]
